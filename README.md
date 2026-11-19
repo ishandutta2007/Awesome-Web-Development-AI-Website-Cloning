@@ -8,7 +8,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Development-AI-Website-Cloning?style=social)](https://github.com/ishandutta2007/Awesome-Web-Development-AI-Website-Cloning/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Development-AI-Website-Cloning?style=social)](https://github.com/ishandutta2007/Awesome-Web-Development-AI-Website-Cloning/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A comprehensively curated developer directory of state-of-the-art SaaS platforms and open-source GitHub repositories for AI website cloning, URL-to-code generation, screenshot-to-UI synthesis, visual page builders, and generative vibe-coding environments.**
@@ -77,25 +77,25 @@ Explore top-rated open-source repositories for website cloning, AI prompt-to-app
 
 Autonomous coding agents and in-browser execution sandboxes designed to generate, preview, and iterate on full-stack web applications and cloned websites.
 
-- **[cline/cline](https://github.com/cline/cline)** [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
+- **[cline/cline](https://github.com/cline/cline)** [![GitHub_Stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)  
   *Autonomous open-source VS Code coding agent capable of scaffolding entire multi-file websites, opening headless browser sessions to inspect rendered DOM/CSS visually, and iteratively fixing layout defects.* 🤖💻
 
-- **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** [![GitHub stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social&color=white)](https://github.com/AntonOsika/gpt-engineer/stargazers)  
+- **[AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer)** [![GitHub_Stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social&color=white)](https://github.com/AntonOsika/gpt-engineer/stargazers)  
   *Pioneering AI code generation CLI and agent framework that translates high-level natural language specifications into multi-file production web repositories with automated dependency installation.* ⚙️🧠
 
-- **[Aider-AI/aider](https://github.com/Aider-AI/aider)** [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)  
+- **[Aider-AI/aider](https://github.com/Aider-AI/aider)** [![GitHub_Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)  
   *Premier terminal-based AI pair programmer that writes and refines Next.js, React, and CSS codebases directly in local Git repositories with auto-commits, linting, and AST-aware context.* 💻✨
 
-- **[firecrawl/open-lovable](https://github.com/firecrawl/open-lovable)** [![GitHub stars](https://img.shields.io/github/stars/firecrawl/open-lovable?style=social&color=white)](https://github.com/firecrawl/open-lovable/stargazers)  
+- **[firecrawl/open-lovable](https://github.com/firecrawl/open-lovable)** [![GitHub_Stars](https://img.shields.io/github/stars/firecrawl/open-lovable?style=social&color=white)](https://github.com/firecrawl/open-lovable/stargazers)  
   *Open-source AI website cloner and builder powered by Firecrawl extraction and E2B sandboxes that clones any live website URL into a fully interactive React and Tailwind CSS application.* 🔥🌐
 
-- **[dyad-sh/dyad](https://github.com/dyad-sh/dyad)** [![GitHub stars](https://img.shields.io/github/stars/dyad-sh/dyad?style=social&color=white)](https://github.com/dyad-sh/dyad/stargazers)  
+- **[dyad-sh/dyad](https://github.com/dyad-sh/dyad)** [![GitHub_Stars](https://img.shields.io/github/stars/dyad-sh/dyad?style=social&color=white)](https://github.com/dyad-sh/dyad/stargazers)  
   *Free, local-first open-source desktop AI application and website builder serving as a private, self-hosted alternative to Lovable, Bolt.new, and v0 with support for local Ollama and LM Studio models.* 🛡️🖥️
 
-- **[stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy)** [![GitHub stars](https://img.shields.io/github/stars/stackblitz-labs/bolt.diy?style=social&color=white)](https://github.com/stackblitz-labs/bolt.diy/stargazers)  
+- **[stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy)** [![GitHub_Stars](https://img.shields.io/github/stars/stackblitz-labs/bolt.diy?style=social&color=white)](https://github.com/stackblitz-labs/bolt.diy/stargazers)  
   *Open-source community edition of Bolt.new enabling full-stack in-browser AI website generation via WebContainers, supporting OpenAI, Anthropic, Gemini, Groq, and local LLMs.* ⚡🌐
 
-- **[plandex-ai/plandex](https://github.com/plandex-ai/plandex)** [![GitHub stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social&color=white)](https://github.com/plandex-ai/plandex/stargazers)  
+- **[plandex-ai/plandex](https://github.com/plandex-ai/plandex)** [![GitHub_Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social&color=white)](https://github.com/plandex-ai/plandex/stargazers)  
   *Open-source terminal AI coding engine architected specifically for complex, large-scale multi-file frontend web architectures with branch-based diff review and sandbox execution.* 🌲🛠️
 
 ---
@@ -104,28 +104,28 @@ Autonomous coding agents and in-browser execution sandboxes designed to generate
 
 Specialized engines that analyze UI screenshots, Figma frames, or live DOM structures to synthesize clean, semantic frontend code.
 
-- **[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)** [![GitHub stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social&color=white)](https://github.com/abi/screenshot-to-code/stargazers)  
+- **[abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)** [![GitHub_Stars](https://img.shields.io/github/stars/abi/screenshot-to-code?style=social&color=white)](https://github.com/abi/screenshot-to-code/stargazers)  
   *The preeminent open-source neural vision tool that converts screenshots, mockups, and screen recordings into clean, production-grade HTML, Tailwind CSS, React, Vue, or Bootstrap code.* 📸✨
 
-- **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** [![GitHub stars](https://img.shields.io/github/stars/JCodesMore/ai-website-cloner-template?style=social&color=white)](https://github.com/JCodesMore/ai-website-cloner-template/stargazers)  
+- **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** [![GitHub_Stars](https://img.shields.io/github/stars/JCodesMore/ai-website-cloner-template?style=social&color=white)](https://github.com/JCodesMore/ai-website-cloner-template/stargazers)  
   *Comprehensive Next.js template and CLI utility for cloning live websites using LLM agents, extracting rendered DOM, inline styles, and page layouts via Playwright into React components.* 🧬📄
 
-- **[wandb/openui](https://github.com/wandb/openui)** [![GitHub stars](https://img.shields.io/github/stars/wandb/openui?style=social&color=white)](https://github.com/wandb/openui/stargazers)  
+- **[wandb/openui](https://github.com/wandb/openui)** [![GitHub_Stars](https://img.shields.io/github/stars/wandb/openui?style=social&color=white)](https://github.com/wandb/openui/stargazers)  
   *Generative UI playground by Weights & Biases that renders live interactive HTML/Tailwind/React interfaces from text prompts, sketches, or screenshot references with instantaneous export.* 🎨📐
 
-- **[gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile)** [![GitHub stars](https://img.shields.io/github/stars/gildas-lormeau/SingleFile?style=social&color=white)](https://github.com/gildas-lormeau/SingleFile/stargazers)  
+- **[gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile)** [![GitHub_Stars](https://img.shields.io/github/stars/gildas-lormeau/SingleFile?style=social&color=white)](https://github.com/gildas-lormeau/SingleFile/stargazers)  
   *Gold-standard web archiving tool and browser CLI that packages any complete webpage—including computed CSS stylesheets, embedded fonts, and base64 assets—into a single self-contained HTML file.* 📦💾
 
-- **[xroche/httrack](https://github.com/xroche/httrack)** [![GitHub stars](https://img.shields.io/github/stars/xroche/httrack?style=social&color=white)](https://github.com/xroche/httrack/stargazers)  
+- **[xroche/httrack](https://github.com/xroche/httrack)** [![GitHub_Stars](https://img.shields.io/github/stars/xroche/httrack?style=social&color=white)](https://github.com/xroche/httrack/stargazers)  
   *Battle-tested offline website copier and crawler that mirrors complete websites recursively onto local disks with reconstructed internal links for offline browsing and cloning.* 🌐💾
 
-- **[website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper)** [![GitHub stars](https://img.shields.io/github/stars/website-scraper/node-website-scraper?style=social&color=white)](https://github.com/website-scraper/node-website-scraper/stargazers)  
+- **[website-scraper/node-website-scraper](https://github.com/website-scraper/node-website-scraper)** [![GitHub_Stars](https://img.shields.io/github/stars/website-scraper/node-website-scraper?style=social&color=white)](https://github.com/website-scraper/node-website-scraper/stargazers)  
   *Modular Node.js library for downloading public websites and scraping associated CSS files, images, scripts, and fonts locally for code synthesis and design reconstruction.* 📥🕸️
 
-- **[Jane-xiaoer/claude-skill-web-clone](https://github.com/Jane-xiaoer/claude-skill-web-clone)** [![GitHub stars](https://img.shields.io/github/stars/Jane-xiaoer/claude-skill-web-clone?style=social&color=white)](https://github.com/Jane-xiaoer/claude-skill-web-clone/stargazers)  
+- **[Jane-xiaoer/claude-skill-web-clone](https://github.com/Jane-xiaoer/claude-skill-web-clone)** [![GitHub_Stars](https://img.shields.io/github/stars/Jane-xiaoer/claude-skill-web-clone?style=social&color=white)](https://github.com/Jane-xiaoer/claude-skill-web-clone/stargazers)  
   *Systematic agentic engineering skill and methodology for faithfully cloning production React and WebGL websites without hallucinated markup using source-first extraction.* 🎯🔍
 
-- **[ibelick/ui](https://github.com/ibelick/ui)** [![GitHub stars](https://img.shields.io/github/stars/ibelick/ui?style=social&color=white)](https://github.com/ibelick/ui/stargazers)  
+- **[ibelick/ui](https://github.com/ibelick/ui)** [![GitHub_Stars](https://img.shields.io/github/stars/ibelick/ui?style=social&color=white)](https://github.com/ibelick/ui/stargazers)  
   *Modern open-source generative component playground replicating v0-style live code previews and Tailwind CSS motion components.* 🎛️⚡
 
 ---
@@ -134,25 +134,25 @@ Specialized engines that analyze UI screenshots, Figma frames, or live DOM struc
 
 Visual drag-and-drop page builders, embedded component canvases, and in-browser DOM editing environments.
 
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** [![GitHub stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=social&color=white)](https://github.com/onlook-dev/onlook/stargazers)  
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** [![GitHub_Stars](https://img.shields.io/github/stars/onlook-dev/onlook?style=social&color=white)](https://github.com/onlook-dev/onlook/stargazers)  
   *The open-source "Cursor for Designers" visual editor that connects directly to local React and Tailwind projects, allowing real-time visual DOM styling with bi-directional code writes.* 👁️🎨
 
-- **[GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs)** [![GitHub stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=social&color=white)](https://github.com/GrapesJS/grapesjs/stargazers)  
+- **[GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs)** [![GitHub_Stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=social&color=white)](https://github.com/GrapesJS/grapesjs/stargazers)  
   *Extensible, multi-purpose open-source Web Builder Framework providing an interactive drag-and-drop canvas, block manager, layer tree, and clean HTML/CSS/JSON export.* 🍇🧱
 
-- **[measuredco/puck](https://github.com/measuredco/puck)** [![GitHub stars](https://img.shields.io/github/stars/measuredco/puck?style=social&color=white)](https://github.com/measuredco/puck/stargazers)  
+- **[measuredco/puck](https://github.com/measuredco/puck)** [![GitHub_Stars](https://img.shields.io/github/stars/measuredco/puck?style=social&color=white)](https://github.com/measuredco/puck/stargazers)  
   *The self-hosted visual editor for React that enables developers to integrate an intuitive drag-and-drop page editor directly into Next.js, Remix, and Astro apps using existing components.* 🏒🧩
 
-- **[webstudio-is/webstudio](https://github.com/webstudio-is/webstudio)** [![GitHub stars](https://img.shields.io/github/stars/webstudio-is/webstudio?style=social&color=white)](https://github.com/webstudio-is/webstudio/stargazers)  
+- **[webstudio-is/webstudio](https://github.com/webstudio-is/webstudio)** [![GitHub_Stars](https://img.shields.io/github/stars/webstudio-is/webstudio?style=social&color=white)](https://github.com/webstudio-is/webstudio/stargazers)  
   *Open-source visual web builder and Webflow alternative built on web standards, CSS variables, and Remix/React, with complete self-hosting freedom and clean static code output.* 🏗️📐
 
-- **[prevwong/craft.js](https://github.com/prevwong/craft.js)** [![GitHub stars](https://img.shields.io/github/stars/prevwong/craft.js?style=social&color=white)](https://github.com/prevwong/craft.js/stargazers)  
+- **[prevwong/craft.js](https://github.com/prevwong/craft.js)** [![GitHub_Stars](https://img.shields.io/github/stars/prevwong/craft.js?style=social&color=white)](https://github.com/prevwong/craft.js/stargazers)  
   *React framework for building extensible drag-and-drop page editors without opinionated UI assumptions, providing complete state management for custom page builders.* 🛠️🧱
 
-- **[plasmicapp/plasmic](https://github.com/plasmicapp/plasmic)** [![GitHub stars](https://img.shields.io/github/stars/plasmicapp/plasmic?style=social&color=white)](https://github.com/plasmicapp/plasmic/stargazers)  
+- **[plasmicapp/plasmic](https://github.com/plasmicapp/plasmic)** [![GitHub_Stars](https://img.shields.io/github/stars/plasmicapp/plasmic?style=social&color=white)](https://github.com/plasmicapp/plasmic/stargazers)  
   *Visual builder and headless CMS that integrates into arbitrary React, Next.js, and Gatsby codebases, empowering non-technical teams to publish UI without engineer handoffs.* ⚡🎛️
 
-- **[liveduo/destack](https://github.com/liveduo/destack)** [![GitHub stars](https://img.shields.io/github/stars/liveduo/destack?style=social&color=white)](https://github.com/liveduo/destack/stargazers)  
+- **[liveduo/destack](https://github.com/liveduo/destack)** [![GitHub_Stars](https://img.shields.io/github/stars/liveduo/destack?style=social&color=white)](https://github.com/liveduo/destack/stargazers)  
   *Open-source Next.js visual page builder featuring pre-styled Tailwind CSS blocks, landing page templates, and instant local JSON data persistence.* 📄🧱
 
 ---
@@ -161,13 +161,13 @@ Visual drag-and-drop page builders, embedded component canvases, and in-browser 
 
 High-performance scraping and extraction infrastructure used by AI website cloners to ingest target layouts, DOM nodes, styles, and media.
 
-- **[mendableai/firecrawl](https://github.com/mendableai/firecrawl)** [![GitHub stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white)](https://github.com/mendableai/firecrawl/stargazers)  
+- **[mendableai/firecrawl](https://github.com/mendableai/firecrawl)** [![GitHub_Stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white)](https://github.com/mendableai/firecrawl/stargazers)  
   *Turn entire websites into LLM-ready clean Markdown and structured JSON. The industry standard ingestion backend powering modern AI website cloning pipelines.* 🔥🕷️
 
-- **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** [![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers)  
+- **[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)** [![GitHub_Stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social&color=white)](https://github.com/unclecode/crawl4ai/stargazers)  
   *Ultra-fast, asynchronous, LLM-friendly open-source web crawler delivering clean structured Markdown, media extraction, and semantic chunking for website cloning and RAG.* 🚀🤖
 
-- **[BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)** [![GitHub stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=social&color=white)](https://github.com/BuilderIO/gpt-crawler/stargazers)  
+- **[BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler)** [![GitHub_Stars](https://img.shields.io/github/stars/BuilderIO/gpt-crawler?style=social&color=white)](https://github.com/BuilderIO/gpt-crawler/stargazers)  
   *Crawl websites to generate clean knowledge files and DOM structures from public URLs, tailored for feeding custom GPTs and AI website synthesis engines.* 🕷️📑
 
 ---
@@ -176,13 +176,13 @@ High-performance scraping and extraction infrastructure used by AI website clone
 
 Foundational component architectures and utility styling engines utilized as the standard compilation targets for generated codebases.
 
-- **[shadcn-ui/ui](https://github.com/shadcn-ui/ui)** [![GitHub stars](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&color=white)](https://github.com/shadcn-ui/ui/stargazers)  
+- **[shadcn-ui/ui](https://github.com/shadcn-ui/ui)** [![GitHub_Stars](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&color=white)](https://github.com/shadcn-ui/ui/stargazers)  
   *Beautifully designed, accessible component architecture built with Radix UI and Tailwind CSS; the primary UI library targeted by modern AI website cloners (v0, Lovable, Bolt).* 🎨🖤
 
-- **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** [![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social&color=white)](https://github.com/tailwindlabs/tailwindcss/stargazers)  
+- **[tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss)** [![GitHub_Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social&color=white)](https://github.com/tailwindlabs/tailwindcss/stargazers)  
   *Utility-first CSS framework providing granular styling classes that allow generative vision models and AI code synthesizers to produce pixel-perfect responsive layouts without stylesheets.* 🌊🎨
 
-- **[BuilderIO/mitosis](https://github.com/BuilderIO/mitosis)** [![GitHub stars](https://img.shields.io/github/stars/BuilderIO/mitosis?style=social&color=white)](https://github.com/BuilderIO/mitosis/stargazers)  
+- **[BuilderIO/mitosis](https://github.com/BuilderIO/mitosis)** [![GitHub_Stars](https://img.shields.io/github/stars/BuilderIO/mitosis?style=social&color=white)](https://github.com/BuilderIO/mitosis/stargazers)  
   *Write components once and compile them to React, Vue, Qwik, Svelte, Angular, and HTML, serving as an ideal compilation layer for universal AI website cloners.* 🔄🧬
 
 ---
@@ -197,7 +197,7 @@ We welcome contributions from developers, creators, and open-source maintainers!
    git checkout -b add-my-awesome-tool
    ```
 3. **Add Your Tool**: Ensure your entry adheres to the existing markdown structure (including pricing details, company valuation, or stargazers badge for open-source repositories).
-4. **Sort Appropriately**: Place SaaS tools according to valuation/size and open-source tools according to GitHub star count.
+4. **Sort Appropriately**: Place SaaS tools according to valuation/size and open-source tools according to GitHub Stars_Count.
 5. **Commit and Push**:
    ```bash
    git commit -m "feat: add NewTool to AI website cloner directory"
