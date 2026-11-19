@@ -4,10 +4,12 @@
 
 # ⚡ Awesome Web Development & AI Website Cloning 🤖
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Development-AI-Website-Cloning?style=social)](https://github.com/ishandutta2007/Awesome-Web-Development-AI-Website-Cloning/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A comprehensively curated developer directory of state-of-the-art SaaS platforms and open-source GitHub repositories for AI website cloning, URL-to-code generation, screenshot-to-UI synthesis, visual page builders, and generative vibe-coding environments.**
 
@@ -30,6 +32,8 @@
   - [🕷️ Web Crawling, Scraping & Content Extractors](#-web-crawling-scraping--content-extractors)
   - [🧩 Design Systems & Foundational Styling Primitives](#-design-systems--foundational-styling-primitives)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📊 Star History](#-star-history)
 - [⚠️ Disclaimer](#-disclaimer)
 
 ---
@@ -200,6 +204,23 @@ We welcome contributions from developers, creators, and open-source maintainers!
    git push origin add-my-awesome-tool
    ```
 6. **Open a Pull Request** with a concise description explaining why the tool provides high utility to the web development and AI cloning ecosystem.
+
+---
+
+## 💖 Support
+
+If you found this list helpful, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to help others discover it!
+- 🍴 **Fork it** and contribute new tools or updates.
+- 📢 **Share it** with fellow developers, engineers, and founders on Twitter/X, LinkedIn, Reddit, or Discord.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing curation and open-source maintenance, please consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Thank you so much for your support! 💖
+
+---
+
+## 📊 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Web-Development-AI-Website-Cloning&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Web-Development-AI-Website-Cloning&Date)
 
 ---
 
