@@ -197,7 +197,7 @@ We welcome contributions from developers, creators, and open-source maintainers!
    git checkout -b add-my-awesome-tool
    ```
 3. **Add Your Tool**: Ensure your entry adheres to the existing markdown structure (including pricing details, company valuation, or stargazers badge for open-source repositories).
-4. **Sort Appropriately**: Place SaaS tools according to valuation/size and open-source tools according to GitHub Stars_Count.
+4. **Sort Appropriately**: Place SaaS tools according to valuation/size and open-source tools according to GitHub_Stars_Count.
 5. **Commit and Push**:
    ```bash
    git commit -m "feat: add NewTool to AI website cloner directory"
